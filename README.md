@@ -1,8 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-**Feature: **This project is a web application showcasing a car catalogue, allowing users to browse, search, and filter cars based on various criteria such as manufacturer, year, and fuel type. It utilizes React components for the frontend interface, integrates with external APIs for fetching car data, and provides features like dynamic filtering and image generation for an interactive user experience.
+Feature:
+This project is a web application showcasing a car catalogue, allowing users to browse, search, and filter cars based on various criteria such as manufacturer, year, and fuel type. It utilizes React components for the frontend interface, integrates with external APIs for fetching car data, and provides features like dynamic filtering and image generation for an interactive user experience.
 
-**Technology Used: **This project is built using React with Next.js framework, CSS for styling, TypeScript for type safety, and integrates with external APIs for fetching car data and generating images, providing a dynamic and interactive car catalogue web application.
+Technology Used:
+This project is built using React with Next.js framework, CSS for styling, TypeScript for type safety, and integrates with external APIs for fetching car data and generating images, providing a dynamic and interactive car catalogue web application.
 
 ![Screenshot (12)](https://github.com/Asif3237/carwebsite/assets/99876059/6bbf8b64-3b1e-4687-a552-a715922c20bc)
 ![Screenshot (11)](https://github.com/Asif3237/carwebsite/assets/99876059/cdddcb15-60fe-4a00-a490-2c57dd11ac20)
